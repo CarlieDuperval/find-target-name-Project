@@ -2,14 +2,14 @@
 // let target = 'tag'
 // function findATarget(arr, target){
 //     for(let i = 0; i < arr.length; i++){
-//         if(arr.include(target)){
+//         if(arr[i] === target){
+
 //             return true
 
 //         }
-//         else{
+
 //             return false
 //         }
-//     }
 
 // }
 // findATarget([],)
