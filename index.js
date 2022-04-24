@@ -2,7 +2,6 @@
 
 let instructor = ['Todd', 'Darie', 'Jonathan', 'Zach', 'Manny']
 
-//let arr = [' d','b']
 let target = 'tag'
 function findATarget(arr, target){
     for(let i = 0; i < arr.length; i++){
@@ -26,4 +25,4 @@ function findTheTarget(ArrOfinstructor, target){
     return ArrOfinstructor.indexOf(target) !== -1
 }
 
-console.log(findTheTarget(instructor,"Carlie"))
+//console.log(findTheTarget(instructor,"Carlie"))
